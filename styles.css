@@ -1,0 +1,15 @@
+.subheadingcontenaier {background-color: rgb(255, 0, 0);
+    font: bold;
+    padding: 10px;
+    background-color: rgb(218, 218, 218);
+    box-shadow: 10px 5px 5px rgb(19, 6, 6);
+    }
+
+    .logo {display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    min-height: 400px;}
+
+    .logo img {width: 200px;
+    height: 550px;
+object-fit: cover;}
